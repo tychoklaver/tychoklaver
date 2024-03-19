@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [chadtycho.github.io](chadtycho.github.io)
 
-- 📫 How to reach me **`tycho053klaver@gmail.com**
+- 📫 How to reach me **tycho053klaver@gmail.com**
 
 - ⚡ Fun fact **I have too much knowledge on many random topics.**
 
