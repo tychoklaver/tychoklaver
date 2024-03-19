@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ChadTycho</h1>
+<h1 align="center">Hi 👋, I'm Tycho</h1>
 <h3 align="center">I'm a Software Developer student based in The Netherlands, currently performing an internship at https://powerspex.nl/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadtycho&label=Profile%20views&color=0e75b6&style=flat" alt="chadtycho" /> </p>
