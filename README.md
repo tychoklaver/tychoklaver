@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **how working in a business environment goes, and trying to better myself as much as possible!**
 
-- 👨‍💻 All of my projects are available at [tychoklaver.github.io](tychoklaver.github.io)
+- 👨‍💻 All of my projects are available at [tychoklaver.github.io](https://tychoklaver.github.io)
 
 - 📫 How to reach me **tycho053klaver@gmail.com**
 
