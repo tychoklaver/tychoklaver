@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tycho</h1>
-<h3 align="center">I'm a Software Developer student based in The Netherlands, currently performing an internship at https://powerspex.nl/</h3>
+<h3 align="center">I'm a Software Developer student based in The Netherlands, coming off of an internship at https://powerspex.nl/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tychoklaver&label=Profile%20views&color=0e75b6&style=flat" alt="tychoklaver" /> </p>
 
