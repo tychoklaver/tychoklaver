@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tychoooooooooo" target="blank"><img src="https://img.shields.io/twitter/follow/tychoooooooooo?logo=twitter&style=for-the-badge" alt="tychoooooooooo" /></a> </p>
 
-- 🌱 I’m currently learning **how working in a business environment goes, and trying to better myself as much as possible!**
+- 🌱 I’m currently learning **to better myself as much as possible!**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Page](https://tychoklaver.github.io)
 
-- 📫 How to reach me **tycho053klaver@gmail.com**
+- 📫 How to reach me - **tycho053klaver@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
