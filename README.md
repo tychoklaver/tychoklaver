@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tycho</h1>
-<h3 align="center">I'm an aspiring game developer from the Netherlands!/</h3>
+<h3 align="center">I'm an aspiring game developer from the Netherlands!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tychoklaver&label=Profile%20views&color=0e75b6&style=flat" alt="tychoklaver" /> </p>
 
